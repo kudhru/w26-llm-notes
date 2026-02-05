@@ -34,7 +34,7 @@ Your target size depends on available resources including time, energy, and API 
 
 Identify all **dimensions or attributes** (knobs) in your game environment and systematically vary them.
 
-> ** Important Note for Students:**
+> **⚠️ Important Note for Students:**
 > 
 > The dimensions listed below are **illustrative examples only**. The actual dimensions will vary significantly from game to game depending on the specific game mechanics, rules, and environment. The high-level idea is simple: identify the different knobs in your game environment that you can systematically vary to generate a large number of scenarios.
 > 
@@ -158,7 +158,7 @@ Depending on your game, include metrics for specific behaviors:
 - **Cheating Tendency**: Attempts to make invalid moves or exploit rules
 - **Deception Detection**: Ability to identify when opponents are bluffing
 
-> ** Critical Note on Developing Novel Metrics:**
+> **📝 Critical Note on Developing Novel Metrics:**
 > 
 > The metrics listed above are merely examples. As a student, you should invest **conscious and deliberate effort** in developing **novel metric names and definitions** that are specific to your game.
 > 
@@ -196,7 +196,7 @@ Use open-source and locally-runnable models for your initial experiments and fir
 
 #### Phase 2: Post-Review (Closed-Source Models)
 
-> ** Important Budget Strategy:**
+> **⚠️ Important Budget Strategy:**
 > 
 > **Do NOT spend any credits or resources on closed-source model evaluation initially.** Evaluating models like GPT-4, Claude, and Gemini is very costly, and we cannot afford to spend these resources on every project.
 > 
