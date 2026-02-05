@@ -1,4 +1,4 @@
-# Guidelines for LLM and AI Agent Game Benchmarking Projects
+# Guidelines for Projects involving Evaluation/Benchmarking of LLM and AI Agents for Different Games
 
 ## Overview
 
